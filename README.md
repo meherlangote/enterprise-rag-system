@@ -75,9 +75,7 @@ Unlike generic chatbot systems, this platform strictly answers from retrieved co
 
 # System Architecture
 
-    <p align="center">
-    <img src="assets/architecture.png" width="900"/>
-    </p>
+![Enterprise RAG Architecture](assets/architecture.png)
     --- 
 
 # Project Structure
