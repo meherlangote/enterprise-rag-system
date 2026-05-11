@@ -562,7 +562,7 @@ AI Engineer | Machine Learning Engineer | RAG Systems Developer
 GitHub:
 
 ```text
-https://github.com/YOUR_GITHUB_USERNAME
+https://github.com/meherlangote
 ```
 
 ---
